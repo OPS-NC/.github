@@ -26,4 +26,5 @@
 Client YouTube audio pour le terminal, écrit en Rust pour consommer le moins de RAM, de CPU et de batterie possible : quelques Mo au repos, là où un onglet de navigateur en demande des centaines.
 
 [![Release](https://img.shields.io/github/v/release/OPS-NC/YTui?label=release&color=e05d44)](https://github.com/OPS-NC/YTui/releases/latest)
+[![Licence MIT](https://img.shields.io/github/license/OPS-NC/YTui?color=blue)](https://github.com/OPS-NC/YTui/blob/main/LICENSE)
 [![Rust](https://img.shields.io/badge/Rust-terminal-dea584)](https://github.com/OPS-NC/YTui)
