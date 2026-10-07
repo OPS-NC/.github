@@ -21,6 +21,8 @@
 
 ### [YTui](https://github.com/OPS-NC/YTui)
 
+<img align="right" src="https://raw.githubusercontent.com/OPS-NC/YTui/main/.github/logo.webp" width="78" alt="YTui" />
+
 Client YouTube audio pour le terminal, écrit en Rust pour consommer le moins de RAM, de CPU et de batterie possible : quelques Mo au repos, là où un onglet de navigateur en demande des centaines.
 
 [![Release](https://img.shields.io/github/v/release/OPS-NC/YTui?label=release&color=e05d44)](https://github.com/OPS-NC/YTui/releases/latest)
