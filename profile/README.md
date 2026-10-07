@@ -15,16 +15,6 @@
 
 Éditeur web auto-hébergé pour ton vault Obsidian. Les fichiers Markdown restent sur ta machine, sans base de données ni service de synchronisation, et sont accessibles depuis tous tes appareils via Tailscale.
 
-- Éditeur CodeMirror, preview et vue split, syntaxe Obsidian (wiki links, callouts, tags)
-- Synchronisation en direct avec Obsidian, sauvegardes atomiques, aucun écrasement silencieux
-- Image Docker multi-arch prête à l'emploi, derrière une passerelle Envoy
-
-```bash
-git clone https://github.com/OPS-NC/ObsiDeck.git && cd ObsiDeck
-cp .env.example .env   # renseigner le chemin du vault
-docker compose up -d
-```
-
 [![Release](https://img.shields.io/github/v/release/OPS-NC/ObsiDeck?label=release&color=5b5bd6)](https://github.com/OPS-NC/ObsiDeck/releases/latest)
 [![Licence MIT](https://img.shields.io/github/license/OPS-NC/ObsiDeck?color=blue)](https://github.com/OPS-NC/ObsiDeck/blob/main/LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Next.js-3178c6)](https://github.com/OPS-NC/ObsiDeck)
@@ -32,14 +22,6 @@ docker compose up -d
 ### [YTui](https://github.com/OPS-NC/YTui)
 
 Client YouTube audio pour le terminal, écrit en Rust pour consommer le moins de RAM, de CPU et de batterie possible : quelques Mo au repos, là où un onglet de navigateur en demande des centaines.
-
-- Binaires autonomes pour macOS et Linux (x86_64 et ARM), ffmpeg intégré
-- yt-dlp installé et tenu à jour automatiquement
-- Analyseur de spectre et consommation mémoire affichés en direct
-
-```bash
-brew install ops-nc/tap/ytui
-```
 
 [![Release](https://img.shields.io/github/v/release/OPS-NC/YTui?label=release&color=e05d44)](https://github.com/OPS-NC/YTui/releases/latest)
 [![Rust](https://img.shields.io/badge/Rust-terminal-dea584)](https://github.com/OPS-NC/YTui)
