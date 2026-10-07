@@ -11,7 +11,7 @@
 
 ### [ObsiDeck](https://github.com/OPS-NC/ObsiDeck)
 
-<img align="right" src="https://raw.githubusercontent.com/OPS-NC/ObsiDeck/main/docs/logo.webp" width="110" alt="ObsiDeck" />
+<img align="right" src="https://raw.githubusercontent.com/OPS-NC/ObsiDeck/main/docs/logo.webp" width="72" alt="ObsiDeck" />
 
 Éditeur web auto-hébergé pour ton vault Obsidian. Les fichiers Markdown restent sur ta machine, sans base de données ni service de synchronisation, et sont accessibles depuis tous tes appareils via Tailscale.
 
