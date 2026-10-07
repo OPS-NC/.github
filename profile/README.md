@@ -1,6 +1,6 @@
 # OPS.nc
 
-**OPS.nc** est une **entreprise calédonienne** spécialisée dans :
+**OPS.nc** est une **entreprise basée en Nouvelle-Calédonie** spécialisée dans :
 
 - **Administration de systèmes Linux** et **infogérance**, pour te permettre de te concentrer pleinement sur ton développement.
 - **Orchestration de conteneurs applicatifs (notamment Kubernetes)**, en mode local (Nouméa) ou dans le Cloud.
